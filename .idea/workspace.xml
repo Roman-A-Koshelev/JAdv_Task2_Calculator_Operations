@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="373285e3-21c1-4b60-923a-a7800dd65949" name="Changes" comment="Решение Задания №2_Операции калькулятора&#10;Инструкция&#10;1. Реализовать операции сложения, вычитания, умножения и деления для&#10;калькулятора из предыдущего задания&#10;2. Поиск максимального элемента в массиве:&#10;- задаем массив слов&#10;- размерность массива произвольна, задается в консоли&#10;- после чего в консоли вводятся слова в количестве равном заданной длине массива&#10;- в полученном массиве необходимо найти самое длинное слово&#10;- результат вывести на консоль&#10;3. Программа должна выполнять одно из заданий на выбор.&#10;- Если в консоли ввести 1 - запуститься выполнение калькулятора&#10;- Если в консоли ввести 2 - поиск максимального слова в массиве&#10;Пример как это может выглядеть в консоли:&#10;Enter number of task: (1 - calculator, 2 - string array)&#10;1&#10;Enter the first number&#10;3&#10;....">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task2_Calculator_Operations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2N02hnnNizW75SouD4zFdWsV1ba" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Task2_Calculator_Operations" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="373285e3-21c1-4b60-923a-a7800dd65949" name="Changes" comment="" />
+      <created>1678786803203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678786803203</updated>
+      <workItem from="1678786804612" duration="19000" />
+      <workItem from="1678786846598" duration="796000" />
+      <workItem from="1678788893113" duration="3057000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Решение Задания №2_Операции калькулятора&#10;Инструкция&#10;1. Реализовать операции сложения, вычитания, умножения и деления для&#10;калькулятора из предыдущего задания&#10;2. Поиск максимального элемента в массиве:&#10;- задаем массив слов&#10;- размерность массива произвольна, задается в консоли&#10;- после чего в консоли вводятся слова в количестве равном заданной длине массива&#10;- в полученном массиве необходимо найти самое длинное слово&#10;- результат вывести на консоль&#10;3. Программа должна выполнять одно из заданий на выбор.&#10;- Если в консоли ввести 1 - запуститься выполнение калькулятора&#10;- Если в консоли ввести 2 - поиск максимального слова в массиве&#10;Пример как это может выглядеть в консоли:&#10;Enter number of task: (1 - calculator, 2 - string array)&#10;1&#10;Enter the first number&#10;3&#10;...." />
+    <option name="LAST_COMMIT_MESSAGE" value="Решение Задания №2_Операции калькулятора&#10;Инструкция&#10;1. Реализовать операции сложения, вычитания, умножения и деления для&#10;калькулятора из предыдущего задания&#10;2. Поиск максимального элемента в массиве:&#10;- задаем массив слов&#10;- размерность массива произвольна, задается в консоли&#10;- после чего в консоли вводятся слова в количестве равном заданной длине массива&#10;- в полученном массиве необходимо найти самое длинное слово&#10;- результат вывести на консоль&#10;3. Программа должна выполнять одно из заданий на выбор.&#10;- Если в консоли ввести 1 - запуститься выполнение калькулятора&#10;- Если в консоли ввести 2 - поиск максимального слова в массиве&#10;Пример как это может выглядеть в консоли:&#10;Enter number of task: (1 - calculator, 2 - string array)&#10;1&#10;Enter the first number&#10;3&#10;...." />
+  </component>
+</project>
